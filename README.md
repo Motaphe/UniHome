@@ -1,5 +1,5 @@
 # UniHome, A Hackathon Project
 
-Link to the webpage
+<a href="https://motaphe.github.io/UniHome/">Link to the webpage</a>
 
-About the project
+<a href="https://motaphe.github.io/unihome.html">About the project</a>
